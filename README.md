@@ -36,7 +36,7 @@ I see AI not just as a technology, but as a practical layer that can be applied 
 
 ## Featured Projects
 
-### 🔐 VAULT-Aegis — Zero-Trust AI Security Gateway
+### VAULT-Aegis — Zero-Trust AI Security Gateway
 > **1st Prize — Hackathon @ Thiagarajar College**
 
 A zero-trust security gateway integrating AI-based threat detection and access control. Designed to validate, monitor, and control AI system interactions in real time.
@@ -45,7 +45,7 @@ A zero-trust security gateway integrating AI-based threat detection and access c
 
 ---
 
-### 🎮 Video Games Sales Analysis & Prediction
+### Video Games Sales Analysis & Prediction
 Analyzed global video game sales data and built predictive models to forecast sales performance across regions and genres.
 
 - Random Forest: **R² = 0.84**
@@ -55,7 +55,7 @@ Analyzed global video game sales data and built predictive models to forecast sa
 
 ---
 
-### 💻 Laptop Price Prediction
+### Laptop Price Prediction
 End-to-end ML pipeline to predict laptop prices based on hardware specifications and brand features.
 
 - Best Model: **R² = 0.88**
@@ -64,21 +64,21 @@ End-to-end ML pipeline to predict laptop prices based on hardware specifications
 
 ---
 
-### 🚴 London Bike Ride Analysis
+### London Bike Ride Analysis
 Exploratory data analysis and visualization of London bike-sharing usage patterns, seasonality, and weather correlations.
 
 `Python` `Pandas` `Tableau` `EDA`
 
 ---
 
-### 📄 Land Documentation Approval Prediction
+### Land Documentation Approval Prediction
 Classification model to predict land documentation approval outcomes based on applicant and document features.
 
 `Python` `Classification` `scikit-learn`
 
 ---
 
-### 🎮 Gaming Addiction Prediction
+### Gaming Addiction Prediction
 Behavioral classification model to predict gaming addiction levels based on usage patterns and psychological indicators.
 
 `Python` `Classification` `ML Pipeline`
