@@ -1,10 +1,9 @@
 # Hi, I'm Gokul R 👋
 
-**Data Science Fresher · ML Enthusiast · AI Productivity Advocate**
+**Data Science Fresher** | **Data Analysis** | **Machine Learning** | **Agentic AI**
 
-I'm a final-year B.Sc. Data Science student based in Tamil Nadu, India, with hands-on experience in building machine learning models, analyzing real-world datasets, and integrating AI into workflows to solve practical problems efficiently.
-
-I believe AI isn't just a technology — it's a productivity layer that can be applied to almost any domain when implemented thoughtfully.
+I'm a Data Science fresher with hands-on experience in data analysis, machine learning, and AI implementation. I've worked on real-world datasets, built and evaluated ML models end-to-end, and explored Agentic AI systems that automate and enhance workflows across different domains.
+I see AI not just as a technology, but as a practical layer that can be applied to almost any problem — when built with the right intent and structure.
 
 ---
 
@@ -31,7 +30,7 @@ I believe AI isn't just a technology — it's a productivity layer that can be a
 `Pandas` `NumPy` `Matplotlib` `Seaborn` `Tableau` `Power BI`
 
 **Tools & Platforms**
-`Git` `GitHub` `Jupyter Notebook` `VS Code` `Streamlit`
+`Git` `GitHub` `Jupyter Notebook` `VS Code` `Streamlit` `Google colab` `Cursor` `Antigravity` `OpenCode` `Claude Code` `Codex`
 
 ---
 
