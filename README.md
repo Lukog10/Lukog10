@@ -3,7 +3,7 @@
 **Data Science Fresher** | **Data Analysis** | **Machine Learning** | **Agentic AI**
 
 I'm a Data Science fresher with hands-on experience in data analysis, machine learning, and AI implementation. I've worked on real-world datasets, built and evaluated ML models end-to-end, and explored Agentic AI systems that automate and enhance workflows across different domains.
-I see AI not just as a technology, but as a practical layer that can be applied to almost any problem — when built with the right intent and structure.
+I see AI not just as a technology, but as a practical layer that can be applied to almost any problem when built with the right intent and structure.
 
 ---
 
