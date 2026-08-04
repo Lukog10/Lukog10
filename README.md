@@ -50,7 +50,7 @@ Beyond building ML models, I actively use AI tools to enhance productivity acros
 ## Let's Connect
 
 - 💼 [LinkedIn](https://linkedin.com/in/GokulRlukoG)
-- 🌐 [Portfolio](https://linkedin.com/in/GokulRlukoG)
+- 🌐 [Portfolio](https://gokul-portfolio-sepia.vercel.app/)
 - 📫 Reach out for collaborations, opportunities, or just to connect.
 
 ---
