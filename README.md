@@ -13,7 +13,7 @@ I see AI not just as a technology, but as a practical layer that can be applied 
 - 📍 Dindigul, Tamil Nadu, India
 - 💼 Actively seeking **Data Analyst** and **Entry-Level ML Engineer** roles
 - 🤝 Open to collaborations on data science, ML, and AI-powered projects
-- 🌐 Portfolio: [gokul-portfolio-sepia.vercel.app](gokul-portfolio-sepia.vercel.app)
+- 🌐 Portfolio: [gokul-portfolio-sepia.vercel.app](https://gokul-portfolio-sepia.vercel.app/)
 - 🔗 LinkedIn: [linkedin.com/in/GokulRlukoG](https://linkedin.com/in/GokulRlukoG)
 
 ---
