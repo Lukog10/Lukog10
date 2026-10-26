@@ -14,7 +14,7 @@
   <a href="https://discord.com">
     <img src="https://img.shields.io/badge/Discord-141414?style=flat-square&logo=discord&logoColor=BFD8E3&labelColor=004A6B" alt="Discord" />
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:gokulr.1105@gmail.com">
     <img src="https://img.shields.io/badge/Email-141414?style=flat-square&logo=gmail&logoColor=BFD8E3&labelColor=004A6B" alt="Email" />
   </a>
 </div>
