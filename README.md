@@ -1,58 +1,109 @@
-# Hi, I'm Gokul R 👋
+<div align="center">
+  <img src="assets/header_banner.png" width="100%" alt="Header Banner" />
+</div>
 
-**Data Science Fresher** | **Data Analysis** | **Machine Learning** | **Agentic AI**
+<br />
 
-I'm a Data Science fresher with hands-on experience in data analysis, machine learning, and AI implementation. I've worked on real-world datasets, built and evaluated ML models end-to-end, and explored Agentic AI systems that automate and enhance workflows across different domains.
-I see AI not just as a technology, but as a practical layer that can be applied to almost any problem when built with the right intent and structure.
+<div align="center">
+  <a href="https://your-portfolio.com">
+    <img src="https://img.shields.io/badge/Portfolio-141414?style=flat-square&logo=googlechrome&logoColor=BFD8E3&labelColor=004A6B" alt="Portfolio" />
+  </a>
+  <a href="https://linkedin.com/in/your-handle">
+    <img src="https://img.shields.io/badge/LinkedIn-141414?style=flat-square&logo=linkedin&logoColor=BFD8E3&labelColor=004A6B" alt="LinkedIn" />
+  </a>
+  <a href="https://discord.com">
+    <img src="https://img.shields.io/badge/Discord-141414?style=flat-square&logo=discord&logoColor=BFD8E3&labelColor=004A6B" alt="Discord" />
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-141414?style=flat-square&logo=gmail&logoColor=BFD8E3&labelColor=004A6B" alt="Email" />
+  </a>
+</div>
 
----
+<br />
 
-## About Me
+```bash
+$ whoami --developer
+```
 
-- 🎓 B.Sc. Data Science — The American College, Madurai (2026)
-- 📍 Dindigul, Tamil Nadu, India
-- 💼 Actively seeking **Data Analyst** and **Entry-Level ML Engineer** roles
-- 🤝 Open to collaborations on data science, ML, and AI-powered projects
-- 🌐 Portfolio: [gokul-portfolio-sepia.vercel.app](https://gokul-portfolio-sepia.vercel.app/)
-- 🔗 LinkedIn: [linkedin.com/in/GokulRlukoG](https://linkedin.com/in/GokulRlukoG)
-
----
-
-## Technical Skills
-
-**Languages & Querying**
-`Python` `SQL`
-
-**Machine Learning & AI**
-`scikit-learn` `XGBoost` `Random Forest` `Regression` `Classification` `Agentic AI`
-
-**Data Analysis & Visualization**
-`Pandas` `NumPy` `Matplotlib` `Seaborn` `Tableau` `Power BI`
-
-**Tools & Platforms**
-`Git` `GitHub` `Jupyter Notebook` `VS Code` `Streamlit` `Google colab` `Cursor` `Antigravity` `OpenCode` `Claude Code` `Codex`
-
----
-
-## GitHub Stats
-
-![Gokul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lukog10&show_icons=true&theme=default&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lukog10&layout=compact&theme=default&hide_border=true)
-
----
-
-## How I Work with AI
-
-Beyond building ML models, I actively use AI tools to enhance productivity across research, documentation, code generation, and project planning. I approach AI pragmatically — identifying where it adds real value, integrating it cleanly, and building systems that are reproducible and maintainable.
-
----
-
-## Let's Connect
-
-- 💼 [LinkedIn](https://linkedin.com/in/GokulRlukoG)
-- 🌐 [Portfolio](https://gokul-portfolio-sepia.vercel.app/)
-- 📫 Reach out for collaborations, opportunities, or just to connect.
+```json
+{
+  "name": "Gokul",
+  "role": "Developer & Freelancer",
+  "focus": [
+    "Data Analytics",
+    "ML & AI Engineering",
+    "Web Development",
+    "Frontend & UI/UX Design"
+  ],
+  "open_source": {
+    "projects": {
+      "Orbix": "Custom notch and dock interface for Windows with dynamic island widgets, hardware metrics, and desktop utilities",
+      "WizDesk": "Open source desktop utility suite engineered for developer workflows and productivity"
+    },
+    "contributions": [
+      "New software for the open source community (Orbix, WizDesk)",
+      "Workflow automation and community tooling",
+      "Upstream bug fixes and patches"
+    ]
+  }
+}
+```
 
 ---
 
-*"Build things that work. Document things that matter. Automate everything in between."*
+### Featured Open Source
+
+| Project | Description | Platform / Scope |
+| :--- | :--- | :--- |
+| **Orbix** | Windows notch and dock interface featuring dynamic island status, hardware monitoring, calendar, stopwatch, application search, wallpaper carousel, and power menu controls. | Windows Desktop Utility |
+| **WizDesk** | Desktop utility suite engineered to streamline developer workflows, shortcut automation, and daily productivity tasks. | Developer Tooling |
+
+---
+
+### Skills & Technologies
+
+#### Core & Data / Machine Learning
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-141414?style=flat-square&logo=python&logoColor=BFD8E3" alt="Python" />
+  <img src="https://img.shields.io/badge/SQL-141414?style=flat-square&logo=postgresql&logoColor=BFD8E3" alt="SQL" />
+  <img src="https://img.shields.io/badge/PyTorch-141414?style=flat-square&logo=pytorch&logoColor=BFD8E3" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/TensorFlow-141414?style=flat-square&logo=tensorflow&logoColor=BFD8E3" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/Pandas-141414?style=flat-square&logo=pandas&logoColor=BFD8E3" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-141414?style=flat-square&logo=numpy&logoColor=BFD8E3" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-141414?style=flat-square&logo=scikitlearn&logoColor=BFD8E3" alt="Scikit-Learn" />
+  <img src="https://img.shields.io/badge/Power_BI-141414?style=flat-square&logo=powerbi&logoColor=BFD8E3" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Tableau-141414?style=flat-square&logo=tableau&logoColor=BFD8E3" alt="Tableau" />
+</p>
+
+#### Web & UI Development (AI-Assisted Workflows)
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-141414?style=flat-square&logo=html5&logoColor=BFD8E3" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-141414?style=flat-square&logo=css3&logoColor=BFD8E3" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-141414?style=flat-square&logo=javascript&logoColor=BFD8E3" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-141414?style=flat-square&logo=typescript&logoColor=BFD8E3" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-141414?style=flat-square&logo=react&logoColor=BFD8E3" alt="React" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-141414?style=flat-square&logo=tailwindcss&logoColor=BFD8E3" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Figma-141414?style=flat-square&logo=figma&logoColor=BFD8E3" alt="Figma" />
+</p>
+
+#### Environment & Tooling
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-141414?style=flat-square&logo=git&logoColor=BFD8E3" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-141414?style=flat-square&logo=github&logoColor=BFD8E3" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Docker-141414?style=flat-square&logo=docker&logoColor=BFD8E3" alt="Docker" />
+  <img src="https://img.shields.io/badge/Linux-141414?style=flat-square&logo=linux&logoColor=BFD8E3" alt="Linux" />
+  <img src="https://img.shields.io/badge/Bash-141414?style=flat-square&logo=gnubash&logoColor=BFD8E3" alt="Bash" />
+  <img src="https://img.shields.io/badge/Hugging_Face-141414?style=flat-square&logo=huggingface&logoColor=BFD8E3" alt="Hugging Face" />
+  <img src="https://img.shields.io/badge/Zed-141414?style=flat-square&logo=zed&logoColor=BFD8E3" alt="Zed" />
+  <img src="https://img.shields.io/badge/VS_Code-141414?style=flat-square&logo=visualstudiocode&logoColor=BFD8E3" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Claude_Code-141414?style=flat-square&logo=anthropic&logoColor=BFD8E3" alt="Claude Code" />
+  <img src="https://img.shields.io/badge/Open_Code-141414?style=flat-square&logo=visualstudiocode&logoColor=BFD8E3" alt="Open Code" />
+  <img src="https://img.shields.io/badge/Ollama-141414?style=flat-square&logo=ollama&logoColor=BFD8E3" alt="Ollama" />
+  <img src="https://img.shields.io/badge/LM_Studio-141414?style=flat-square&logo=openai&logoColor=BFD8E3" alt="LM Studio" />
+</p>
+
+---
+
+<div align="center">
+  <img src="assets/footer_banner.png" width="100%" alt="Footer Banner" />
+</div>
