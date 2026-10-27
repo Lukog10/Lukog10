@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 580" width="100%" height="auto" font-family="Consolas, 'Cascadia Code', monospace" font-size="13px">
+<style>
+.key { fill: #004A6B; font-weight: 600; }
+.val { fill: #1f2328; }
+.dots { fill: #8c959f; }
+.hdr { fill: #004A6B; font-weight: bold; }
+.rule { fill: #d0d7de; }
+.ascii { fill: #00638E; white-space: pre; font-size: 13.5px; }
+text, tspan { white-space: pre; }
+</style>
+<rect width="1198" height="578" x="1" y="1" fill="#ffffff" stroke="#004A6B" stroke-width="1.5" rx="12"/>
+<text x="35" y="70" class="ascii">
+  <tspan x="35" y="70">                                      </tspan>
+  <tspan x="35" y="90">                  .                   </tspan>
+  <tspan x="35" y="110">                 .                   .</tspan>
+  <tspan x="35" y="130">               ..       .         ... </tspan>
+  <tspan x="35" y="150">              .        .  +  *-   .   </tspan>
+  <tspan x="35" y="170">        -.  ..           -#.*-  ..    </tspan>
+  <tspan x="35" y="190">       -.  -*-...   .    .-+   -      </tspan>
+  <tspan x="35" y="210">          ***#+     ..*-...  .*-      </tspan>
+  <tspan x="35" y="230">         #-*#+     -+*-  ...-#.       </tspan>
+  <tspan x="35" y="250">           ##++- +*++-  .  +*         </tspan>
+  <tspan x="35" y="270">       -++#*+**-*#--+#*.-.#- --       </tspan>
+  <tspan x="35" y="290">      +.-+.   .#*.-*#*..--  ..        </tspan>
+  <tspan x="35" y="310">     .  .+  -+#*  ##- +*+++.    .     </tspan>
+  <tspan x="35" y="330">     --+.-- *#*- .*..*####-    +.     </tspan>
+  <tspan x="35" y="350">    ..--+*. ...  ..-*.     .  +       </tspan>
+  <tspan x="35" y="370">   .   .-+     .-.+*      .  .        </tspan>
+  <tspan x="35" y="390">  .  +. ++ -*#**.+*#*###+   .         </tspan>
+  <tspan x="35" y="410"> .  *-   .+###**- ++.-.   ..          </tspan>
+  <tspan x="35" y="430">     .**+*###-..  .      .            </tspan>
+  <tspan x="35" y="450">    -- .*##*  +   --   -*             </tspan>
+  <tspan x="35" y="470">   -   ###**+#+. ..   +*              </tspan>
+  <tspan x="35" y="490">  .    #*++.*..+     *+               </tspan>
+  <tspan x="35" y="510">       -            ..                </tspan>
+  <tspan x="35" y="530">                                      </tspan>
+</text>
+<text x="475" y="45">
+  <tspan x="475" y="45" class="hdr">Gokul</tspan><tspan class="rule"> --------------------------------------------------------------</tspan>
+  <tspan x="475" y="66"><tspan class="dots">. </tspan><tspan class="key">Role</tspan><tspan class="dots">:</tspan><tspan class="dots"> .................................... </tspan><tspan class="val">Developer &amp; Freelancer</tspan></tspan>
+  <tspan x="475" y="87"><tspan class="dots">. </tspan><tspan class="key">Focus</tspan><tspan class="dots">:</tspan><tspan class="dots"> ................. </tspan><tspan class="val">Data Analytics, ML &amp; AI, Web Development</tspan></tspan>
+  <tspan x="475" y="108"><tspan class="dots">. </tspan><tspan class="key">Languages.Core</tspan><tspan class="dots">:</tspan><tspan class="dots"> ..................................... </tspan><tspan class="val">Python, SQL</tspan></tspan>
+  <tspan x="475" y="129"><tspan class="dots">. </tspan><tspan class="key">ML.Libraries</tspan><tspan class="dots">:</tspan><tspan class="dots"> ........ </tspan><tspan class="val">PyTorch, TensorFlow, Pandas, NumPy, Scikit</tspan></tspan>
+  <tspan x="475" y="150"><tspan class="dots">. </tspan><tspan class="key">Analytics.BI</tspan><tspan class="dots">:</tspan><tspan class="dots"> ................................. </tspan><tspan class="val">Power BI, Tableau</tspan></tspan>
+  <tspan x="475" y="171"><tspan class="dots">. </tspan><tspan class="key">Web.Frontend</tspan><tspan class="dots">:</tspan><tspan class="dots"> ........ </tspan><tspan class="val">React, TypeScript, Tailwind CSS, HTML, CSS</tspan></tspan>
+  <tspan x="475" y="192"><tspan class="dots">. </tspan><tspan class="key">Design</tspan><tspan class="dots">:</tspan><tspan class="dots"> ................................ </tspan><tspan class="val">Figma, UI/UX Prototyping</tspan></tspan>
+  <tspan x="475" y="234" class="hdr">- Open Source</tspan><tspan class="rule"> ------------------------------------------------------</tspan>
+  <tspan x="475" y="255"><tspan class="dots">. </tspan><tspan class="key">Orbix</tspan><tspan class="dots">:</tspan><tspan class="dots"> ....... </tspan><tspan class="val">Windows notch &amp; dock with dynamic island &amp; widgets</tspan></tspan>
+  <tspan x="475" y="276"><tspan class="dots">. </tspan><tspan class="key">WizDesk</tspan><tspan class="dots">:</tspan><tspan class="dots"> .......... </tspan><tspan class="val">Desktop utility suite for developer workflows</tspan></tspan>
+  <tspan x="475" y="297"><tspan class="dots">. </tspan><tspan class="key">Contributions</tspan><tspan class="dots">:</tspan><tspan class="dots">  </tspan><tspan class="val">New software releases, community tools, bug fixes</tspan></tspan>
+  <tspan x="475" y="339" class="hdr">- Tooling &amp; AI Environment</tspan><tspan class="rule"> -----------------------------------------</tspan>
+  <tspan x="475" y="360"><tspan class="dots">. </tspan><tspan class="key">Environment</tspan><tspan class="dots">:</tspan><tspan class="dots"> ................... </tspan><tspan class="val">Git, GitHub, Docker, Linux, Bash</tspan></tspan>
+  <tspan x="475" y="381"><tspan class="dots">. </tspan><tspan class="key">Editors</tspan><tspan class="dots">:</tspan><tspan class="dots"> ........................................... </tspan><tspan class="val">VS Code, Zed</tspan></tspan>
+  <tspan x="475" y="402"><tspan class="dots">. </tspan><tspan class="key">AI.Ecosystem</tspan><tspan class="dots">:</tspan><tspan class="dots"> ......... </tspan><tspan class="val">Claude Code, Open Code, Ollama, LM Studio</tspan></tspan>
+  <tspan x="475" y="444" class="hdr">- Contact &amp; Socials</tspan><tspan class="rule"> ------------------------------------------------</tspan>
+  <tspan x="475" y="465"><tspan class="dots">. </tspan><tspan class="key">Email.Personal</tspan><tspan class="dots">:</tspan><tspan class="dots"> ........................... </tspan><tspan class="val">gokulr.1105@gmail.com</tspan></tspan>
+  <tspan x="475" y="486"><tspan class="dots">. </tspan><tspan class="key">GitHub</tspan><tspan class="dots">:</tspan><tspan class="dots"> ...................................... </tspan><tspan class="val">github.com/Lukog10</tspan></tspan>
+  <tspan x="475" y="507"><tspan class="dots">. </tspan><tspan class="key">Status</tspan><tspan class="dots">:</tspan><tspan class="dots"> ..... </tspan><tspan class="val">Available for projects &amp; open source collaborations</tspan></tspan>
+  <tspan x="475" y="528" class="rule">--------------------------------------------------------------------</tspan>
+</text>
+</svg>
