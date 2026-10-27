@@ -138,7 +138,8 @@ def make_svg(theme='dark'):
         ('empty', '', '', 68),
         ('header', '- Contact & Socials', '', 68),
         ('field', 'Email.Personal', 'gokulr.1105@gmail.com', 68),
-        ('field', 'LinkedIN', 'https://www.linkedin.com/in/gokulrlukog/', 68),
+        ('field', 'LinkedIn', 'https://www.linkedin.com/in/gokulrlukog/', 68),
+        ('field', 'Portfolio', 'https://gokul-portfolio-sepia.vercel.app/', 68),
         ('field', 'Status', 'Available for projects & open source collaborations', 68),
         ('rule', '', '', 68)
     ]
