@@ -2,34 +2,32 @@ import os
 from PIL import Image
 
 def generate():
-    # 1. Process avatar to ASCII
-    img = Image.open('assets/avatar.png').convert('L')
-    thresholded = img.point(lambda p: 255 if p > 30 else 0)
-    bbox = thresholded.getbbox()
-    cropped = img.crop(bbox)
-
-    width = 38
-    height = 24
-    resized = cropped.resize((width, height), Image.Resampling.LANCZOS)
-
-    ascii_lines = []
-    for y in range(height):
-        line = ''
-        for x in range(width):
-            p = resized.getpixel((x, y))
-            if p < 50:
-                line += ' '
-            elif p < 85:
-                line += '.'
-            elif p < 125:
-                line += '-'
-            elif p < 165:
-                line += '+'
-            elif p < 205:
-                line += '*'
-            else:
-                line += '#'
-        ascii_lines.append(line)
+    ascii_lines = [
+        "           _..._          *        .    ",
+        "         .::::::.   *        .         .",
+        "        ::::::::     .-----------------.",
+        "        '::::::'    /                 /|",
+        "          '\"\"'     +-----------------+ |",
+        "   .               |  .-----------.  | |",
+        "          *        |  |   _   _   |  | |",
+        "  *                |  |  (o) (o)  |  | |",
+        "                   |  |     ^     |  | |",
+        "         .         |  |   \\___/   |  | |",
+        "    .              |  '-----------'  | /",
+        "                   |-.....-.....-....|/ ",
+        "  *                +-----------------+  ",
+        "         *         |   [=======]   o |  ",
+        "                  /-------------------/ ",
+        "   .             '==================='  ",
+        "                    /   _ _ _ _ _   /   ",
+        "    *       .      /   [ [ [ [ [ ] /    ",
+        "                  '=============== '    ",
+        "     *       .        *       .        *",
+        "        .        *        .       .     ",
+        "    *        .        .        *        ",
+        "          .       *        .            ",
+        "                                        "
+    ]
 
     def make_svg(theme='dark'):
         is_dark = (theme == 'dark')
@@ -86,7 +84,8 @@ def generate():
         svg.append('<text x="35" y="70" class="ascii">')
         for idx, line in enumerate(ascii_lines):
             y = 70 + (idx * 20)
-            svg.append(f'  <tspan x="35" y="{y}">{line}</tspan>')
+            esc_line = line.replace('&', '&amp;').replace('<', '&lt;').replace('>', '&gt;')
+            svg.append(f'  <tspan x="35" y="{y}">{esc_line}</tspan>')
         svg.append('</text>')
 
         svg.append('<text x="475" y="45">')

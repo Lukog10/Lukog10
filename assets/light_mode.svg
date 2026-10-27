@@ -11,30 +11,30 @@ text, tspan { white-space: pre; }
 </style>
 <rect width="1198" height="578" x="1" y="1" fill="#ffffff" stroke="#004A6B" stroke-width="1.5" rx="12"/>
 <text x="35" y="70" class="ascii">
-  <tspan x="35" y="70">                                      </tspan>
-  <tspan x="35" y="90">                  .                   </tspan>
-  <tspan x="35" y="110">                 .                   .</tspan>
-  <tspan x="35" y="130">               ..       .         ... </tspan>
-  <tspan x="35" y="150">              .        .  +  *-   .   </tspan>
-  <tspan x="35" y="170">        -.  ..           -#.*-  ..    </tspan>
-  <tspan x="35" y="190">       -.  -*-...   .    .-+   -      </tspan>
-  <tspan x="35" y="210">          ***#+     ..*-...  .*-      </tspan>
-  <tspan x="35" y="230">         #-*#+     -+*-  ...-#.       </tspan>
-  <tspan x="35" y="250">           ##++- +*++-  .  +*         </tspan>
-  <tspan x="35" y="270">       -++#*+**-*#--+#*.-.#- --       </tspan>
-  <tspan x="35" y="290">      +.-+.   .#*.-*#*..--  ..        </tspan>
-  <tspan x="35" y="310">     .  .+  -+#*  ##- +*+++.    .     </tspan>
-  <tspan x="35" y="330">     --+.-- *#*- .*..*####-    +.     </tspan>
-  <tspan x="35" y="350">    ..--+*. ...  ..-*.     .  +       </tspan>
-  <tspan x="35" y="370">   .   .-+     .-.+*      .  .        </tspan>
-  <tspan x="35" y="390">  .  +. ++ -*#**.+*#*###+   .         </tspan>
-  <tspan x="35" y="410"> .  *-   .+###**- ++.-.   ..          </tspan>
-  <tspan x="35" y="430">     .**+*###-..  .      .            </tspan>
-  <tspan x="35" y="450">    -- .*##*  +   --   -*             </tspan>
-  <tspan x="35" y="470">   -   ###**+#+. ..   +*              </tspan>
-  <tspan x="35" y="490">  .    #*++.*..+     *+               </tspan>
-  <tspan x="35" y="510">       -            ..                </tspan>
-  <tspan x="35" y="530">                                      </tspan>
+  <tspan x="35" y="70">           _..._          *        .    </tspan>
+  <tspan x="35" y="90">         .::::::.   *        .         .</tspan>
+  <tspan x="35" y="110">        ::::::::     .-----------------.</tspan>
+  <tspan x="35" y="130">        '::::::'    /                 /|</tspan>
+  <tspan x="35" y="150">          '""'     +-----------------+ |</tspan>
+  <tspan x="35" y="170">   .               |  .-----------.  | |</tspan>
+  <tspan x="35" y="190">          *        |  |   _   _   |  | |</tspan>
+  <tspan x="35" y="210">  *                |  |  (o) (o)  |  | |</tspan>
+  <tspan x="35" y="230">                   |  |     ^     |  | |</tspan>
+  <tspan x="35" y="250">         .         |  |   \___/   |  | |</tspan>
+  <tspan x="35" y="270">    .              |  '-----------'  | /</tspan>
+  <tspan x="35" y="290">                   |-.....-.....-....|/ </tspan>
+  <tspan x="35" y="310">  *                +-----------------+  </tspan>
+  <tspan x="35" y="330">         *         |   [=======]   o |  </tspan>
+  <tspan x="35" y="350">                  /-------------------/ </tspan>
+  <tspan x="35" y="370">   .             '==================='  </tspan>
+  <tspan x="35" y="390">                    /   _ _ _ _ _   /   </tspan>
+  <tspan x="35" y="410">    *       .      /   [ [ [ [ [ ] /    </tspan>
+  <tspan x="35" y="430">                  '=============== '    </tspan>
+  <tspan x="35" y="450">     *       .        *       .        *</tspan>
+  <tspan x="35" y="470">        .        *        .       .     </tspan>
+  <tspan x="35" y="490">    *        .        .        *        </tspan>
+  <tspan x="35" y="510">          .       *        .            </tspan>
+  <tspan x="35" y="530">                                        </tspan>
 </text>
 <text x="475" y="45">
   <tspan x="475" y="45" class="hdr">Gokul</tspan><tspan class="rule"> --------------------------------------------------------------</tspan>
